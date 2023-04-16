@@ -1,0 +1,95 @@
+---
+layout: post
+title:  "VIM"
+date:   2023-03-14 12:03:49 -0700
+categories: note
+---
+
+- [Vim Documentation](https://www.vim.org/docs.php)
+
+- Use Vim Like A Pro:
+    .
+
+- vimtutor
+    - :help tutor
+    - Lesson 1
+        - hjkl
+        - vim <file_name>
+        - <esc>
+            back to normal mode (control mode)
+        - <esc> :q!
+        - <esc> :wq
+        - x
+            delete character
+        - i <text> <esc>
+            insert mode
+        - A <text> <esc>
+            append mode
+    - Lesson 2
+        - dw
+            delete word to start
+        - de
+            delete word to end
+        - d$
+            delete the rest of line
+        - 0
+            start of line
+        - <number>w
+            go to number of word at start
+        - <number>e
+            go to number of word at end
+        - $
+            end of line
+        - d<number><motion>
+            delete number of word
+        - dd
+            delete whole line
+        - <number>dd
+            delete number of line
+        - u
+            undo
+        - U
+            undo whole line
+        - Ctrl-R
+            undo undo
+    - Lesson 3
+        - p
+            put line to after
+        - rx
+            replace by x
+        - ce
+            delete word and enter insert mode
+        - c<number><motion>
+            delete number of word and enter insert mode
+        - c$
+            delete to the end of line and enter insert mode
+    - Lesson 4
+        - Ctrl-G
+            show location
+        - G
+            go to bottom of file
+        - gg
+            go to start of file
+        - <number>G
+            go to line
+        - /
+            search
+        - ?
+            search backward
+        - n
+            search next
+        - N
+            search back
+        - Ctrl-o
+            go back
+        - Ctrl-i
+            go next
+    - Lesson 4.1
+        - w, e
+            forward
+        - b, ge
+            backward
+
+
+- Advanced Vim Tutorial:
+    - 

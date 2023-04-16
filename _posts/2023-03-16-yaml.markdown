@@ -1,0 +1,79 @@
+---
+layout: post
+title:  "YAML"
+date:   2023-03-14 12:03:49 -0700
+categories: note
+---
+
+
+
+- [The Official YAML Web Site](https://yaml.org/)
+    - Chapter 2: Language Overview
+        - Collections
+            - Sequence
+                - <dash><space>
+                    - first item
+                    - second item
+                - <square brackets>
+                    [item1, item2]
+            - Scalar (Mapping)
+                - <key><colon><space><value>
+                    key1: value1
+                    key2: value2
+                - <curly braces>
+                    {key1: value1, key2: value2}
+            - Comment
+                - <sharp>
+                    # say something
+        - Structures
+            - Document
+                - start document
+                    <three dashes>
+                    ---
+                - stop document
+                    <three dots>
+                    ...
+            - Repeated
+                - definition
+                    <ampersand><anchor><space><object>
+                    &name object
+                - reference
+                    <asterisk><anchor>
+                    *name # repeated object
+            - Complex mapping keys
+                - <question mark><sequence><colon><value>
+                    - & - key1
+                        - key2
+                     : value
+                    - & [key1, key2]
+                     : [value1, valua2]
+        - Scalars
+            - literal
+                | keep newlines
+            - folded
+                > newlines become spaces
+            - blank lines
+            - flow scalar
+                "can contain escape sequence"
+                'wtf'
+        - Tags
+            keyword:
+                seq, map, str
+                int, float, null
+            - integers
+            - floating point
+            - miscellaneous
+                - null
+                - bool
+                - string
+            - timestamps
+            - explicit tag
+                !!str <string>
+                !!binary <binary>
+                !mytag <value>
+            - global tag
+                - %TAG <symbol> <value>
+            - unordered set
+                !!set ?
+            - ordered mapping
+                !!omap <map>
