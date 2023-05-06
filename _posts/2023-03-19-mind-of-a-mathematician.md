@@ -2,7 +2,7 @@
 layout: post
 title:  "Mind of a Mathematician"
 date:   2023-03-19 12:03:49 -0700
-categories: note
+tags: note
 ---
 
 - [Mind of a Mathematician](https://paw.princeton.edu/article/mind-mathematician)
