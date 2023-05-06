@@ -1,0 +1,91 @@
+---
+layout: post
+title:  "GYM"
+date:   2023-04-23 12:03:49 -0700
+categories: note
+---
+
+- [Weight Training Fundamentals Guide](https://www.verywellfit.com/weight-training-fundamentals-a-concise-guide-3498525):
+    - GYM:
+        - Motivation:
+            - Stimulate:
+                - Growth
+                - Strength
+                - Power
+                - Endurance
+                - Health ?
+        - Goal:
+            - FITT:
+                - Frequency: How often
+                - Intensity: How hard
+                - Time Spent: Session time
+                - Type Exercise: Which
+    - Muscles & Movements:
+        - Muscle Contraction:
+            - Isometric:
+                - Muscle does not lengthen
+            - Isotonic:
+                - Concentric: shorten
+                - Eccentric: lengthen
+        - Joint Movements:
+            - Flexion: Decrease the angle
+            - Extension: Increase the angle
+            - Abduction: Move away from middle of the body
+            - Adduction: Move toward the middle of the body
+        - Muscles:
+            - Arm:
+                - Forearms
+                - Biceps
+                - Triceps
+            - Shoulder:
+                - Deltoid
+            - Chest:
+            - Back:
+                - Upper Back: Traps
+                - Middle Back: Lats
+                - Lower Back
+            - Leg:
+                - Quads
+                - Hamstrings
+                - Calves
+            - Buttock:
+                - Glutes
+            - Abdomen:
+                - Abs
+        - Plans:
+            - HIIT: High intensiy interval training
+            - Body Parts: Upper body, lower body
+            - Major lifts:
+                - Squat
+                - Bench press
+                - Deadlift
+                - Clean & jerk
+                - Snatch
+    - Rep, Set, Rest, Speed:
+        - Building Strength:
+            - Heavy
+            - Less Rep
+            - Long Rest
+        - Building Muscle Size:
+            - Medium
+            - More Rep
+            - Less Rest
+        - Building Endurance:
+            - Less Weight
+            - More Rep
+            - Less Rest
+        - Building Muscle Power:
+            - Lighter
+            - Long Rest
+            - Speed
+    - 1-RM Repetition Maximum:
+        - 100%: 1-rep
+        - 85% : 6-rep
+        - 67% : 12-rep
+        - 65% : 15-rep
+        - 60% : warmup
+    - Exercies:
+        - Big-Three:
+            - Squat
+            - Bench Press
+            - Deadlift
