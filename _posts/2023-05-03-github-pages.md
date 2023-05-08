@@ -42,3 +42,8 @@ tags: note tool util
             - bundle install
             - bundle exec jekyll serve
             - go to `localhost:4000`
+    - Fix Warning:
+        - `Deprecation Warning: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.`:
+            - add to Gemfile: `gem "jekyll-sass-converter", "~> 2.0"`
+            - bundle update
+            - bundle exec jekyll serve --host 0.0.0.0
