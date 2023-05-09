@@ -2,7 +2,7 @@
 layout: post
 title:  "Getting Things Done"
 date:   2023-05-06 12:03:49 -0700
-categories: note
+tags: note
 ---
 
 - [Getting Things Done: The Art of Stress-Free Productivity]()
